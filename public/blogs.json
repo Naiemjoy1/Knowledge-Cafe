@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "cover": "https://ibb.co/1JFXgqJ",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-02-07",
+      "reading_time": 10,
+      "hashtags": ["programming", "coding", "technology"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    },
+    {
+      "id": 2,
+      "cover": "https://ibb.co/B22vmMy",
+      "title": "Exploring the Cosmos",
+      "author": "Jane Smith",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-02-06",
+      "reading_time": 15,
+      "hashtags": ["space", "astronomy", "science"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    },
+    {
+      "id": 3,
+      "cover": "https://ibb.co/0GmNsVH",
+      "title": "Healthy Living Tips",
+      "author": "Alice Johnson",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-02-05",
+      "reading_time": 8,
+      "hashtags": ["health", "fitness", "wellness"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    },
+    {
+      "id": 4,
+      "cover": "https://ibb.co/1JFXgqJ",
+      "title": "Travel Adventures",
+      "author": "Mike Brown",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-02-04",
+      "reading_time": 20,
+      "hashtags": ["travel", "adventure", "explore"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    },
+    {
+      "id": 5,
+      "cover": "https://ibb.co/B22vmMy",
+      "title": "Art and Creativity",
+      "author": "Emily Davis",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-02-03",
+      "reading_time": 12,
+      "hashtags": ["art", "creativity", "inspiration"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    },
+    {
+      "id": 6,
+      "cover": "https://ibb.co/0GmNsVH",
+      "title": "Cooking Masterclass",
+      "author": "Robert White",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-02-02",
+      "reading_time": 18,
+      "hashtags": ["cooking", "recipes", "food"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    },
+    {
+      "id": 7,
+      "cover": "https://ibb.co/1JFXgqJ",
+      "title": "Financial Planning 101",
+      "author": "David Lee",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-02-01",
+      "reading_time": 10,
+      "hashtags": ["finance", "money", "investing"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    },
+    {
+      "id": 8,
+      "cover": "https://ibb.co/B22vmMy",
+      "title": "Gardening Tips and Tricks",
+      "author": "Sarah Green",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-01-31",
+      "reading_time": 15,
+      "hashtags": ["gardening", "plants", "nature"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    },
+    {
+      "id": 9,
+      "cover": "https://ibb.co/0GmNsVH",
+      "title": "DIY Home Projects",
+      "author": "Michael Johnson",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-01-30",
+      "reading_time": 12,
+      "hashtags": ["diy", "home", "projects"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    },
+    {
+      "id": 10,
+      "cover": "https://ibb.co/1JFXgqJ",
+      "title": "Effective Communication Skills",
+      "author": "Emma Wilson",
+      "author_img": "https://ibb.co/8DjfV2Z",
+      "posted_date": "2024-01-29",
+      "reading_time": 10,
+      "hashtags": ["communication", "skills", "success"],
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi quis tortor faucibus aliquam id eget erat."
+    }
+]
